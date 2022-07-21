@@ -1,0 +1,10 @@
+------MULTIPLICACION DE FRACCIONES------
+
+Para obtener el valor numérico en forma de fracciones, 
+únicamente se tiene un procedimiento ya sea para multiplicación 
+de fracciones con diferente denominador o mismo denominador.
+
+En la multiplicación de fracciones se multiplican los numeradores 
+de las fracciones y aparte los denominadores.
+
+Ejemplo 2/2 * 1/2 = 2/4

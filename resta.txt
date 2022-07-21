@@ -1,0 +1,18 @@
+       --------RESTA DE FRACCIONES---------
+
+ Resta con el mismo denominador
+ 
+
+Se suman o se restan los numeradores y se mantiene el denominador.
+
+Ejemplo:
+
+6/7 - 4/7 = 2/7
+
+Se suman los numeradores 2 y 3 y se guarda  el denominador 7.
+
+Para poder sumar o restar fracciones, estas tienen que tener el mismo denominador. 
+Para encontrar el común denominador, el primer paso es descomponer los denominadores 
+existentes en factores primos. Averiguamos el mcm y multiplicamos cada fracción por el
+ número que le corresponde. En primer lugar se reducen los denominadores a un común denominador 
+y se suman o restan los numeradores de las fracciones equivalentes obtenidas.

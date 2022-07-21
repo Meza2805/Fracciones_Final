@@ -1,0 +1,31 @@
+       --------SUMA DE FRACCIONES---------
+
+**Suma con el mismo denominador**
+Se suman o se restan los numeradores y se mantiene el denominador.
+
+Ejemplo:
+	2/5 + 1/5 = 3/5
+
+**Suma con el distinto denominador**
+Para poder sumar o restar fracciones, estas tienen que tener el mismo 
+denominador. Para encontrar el común denominador, el primer paso es 
+descomponer los denominadores existentes en factores primos. Averiguamos 
+el mcm y multiplicamos cada fracción por el número que le corresponde. 
+En primer lugar se reducen los denominadores a un común denominador y 
+se suman o restan los numeradores de las fracciones equivalentes obtenidas.
+
+Ejemplo:
+
+1/5 + 2/3 = 
+
+Para poder sumar estas dos fracciones, el denominador debe de ser lo mismo, 
+pero tenemos por una parte 5 y por la otra 3. Como los dos denominadores son 
+números primos, necesitamos la primera fracción por 3/3 o que en realidad es 1, 
+y la segunda fracción por 5/5 o que nos ayudara a obtener el mismo denominador 
+3 * 5 = 15 
+
+1/5 + 2/3 = 1/5 * 3/3 + 2/3 * 5/5 = 3/15 + 10/15
+
+Como tenemos el mismo denominador, sumamos los numeradores. El denominador no se suma.
+
+3/15 + 10/15 = 13/15

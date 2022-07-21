@@ -1,0 +1,152 @@
+-----------DIVISION DE FRACCIONES-----------
+
+
+Para obtener el valor numérico en forma de fracciones, en la división 
+de fracciones se tienen 2 métodos recomendados, existen otros métodos 
+pero pueden ser confusos con otras operaciones de fracciones
+
+
+Método 1 de la división de fracciones: Multiplicar en cruz
+Consiste en multiplicar el numerador de la primera fracción por el 
+denominador de la segunda fracción y el resultado de la multiplicación 
+corresponde al numerador del resultado, por otra parte, para obtener el 
+resultado del denominador se debe multiplicar el denominador de la primera
+ fracción por el numerador de la segunda fracción.
+
+En el siguiente ejemplo se dividirán las fracciones 1/3 entre 2/6, 
+para llevar a cabo la división de fracciones se realizan los siguientes pasos:
+
+1. Se multiplica el numerador de la primera fracción con el denominador de la segunda fracción.
+
+1/3 ÷ 2/6 = ? / ?
+
+2.El resultado de la multiplicación se coloca en la posición del numerador.
+
+1/3 ÷ 2/6 =  6
+ 
+3. Ahora el denominador de la primera fracción se multiplica con el numerador de la segunda fracción.
+
+1/3 ÷ 2/6 = 6/?
+
+4. El resultado de la multiplicación se coloca en la posición del denominador.
+
+1/3 ÷ 2/6 = 6/6
+Por lo tanto, podemos resumir el procedimiento en un sólo paso, donde lo marcado 
+en azul indica el resultado del numerador y lo marcado en rojo el resultado del denominador:
+
+1/3 ÷ 2/6 = 1 x 6 / 3 x 2 = 6/6
+El resultado de la división se puede simplificar porque, tanto numerador como denominador 
+tienen el mismo valor. De esta forma, 6/6 = 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
